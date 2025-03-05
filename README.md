@@ -1,16 +1,16 @@
 
-# HPCS (House Point Curency System)
+# HPCS (House Point Currency System)
 
-This Is A Tracker For The Ammount Of House Points Gained That Can Be Spent
+This Is A Tracker For The Amount Of House Points Gained That Can Be Spent
 
-This Repostory Houses The Speadsheet And The Resources
+This Repository Houses The Spreadsheet And The Resources
 
 
 ## How To Use
 
-Every Week You Add The Amout Of House Points (Including Minors And Major) And Add It In To The Corresponding Week
+Every Week You Add The Amount Of House Points (Including Minors And Major) And Add It In To The Corresponding Week
 
-Under That Contains How Much You Spent That Week **From The Total** In The Row Under The Gained Points
+Under That Contains How Much You Spent That Week From The Total In The Row Under The Gained Points
 ## Installation
 
 Download The Latest Version From Releases Or From The Link Below
