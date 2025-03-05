@@ -21,7 +21,7 @@ Download Link: [https://github.com/mahmoudfaleh/HPCS/releases ](https://github.c
 ## Update
 
 
-  Copy Row B12 Till H12 To The Same Position In The Updated Version Of The Spread Sheet
+  Copy Row B12 Till H12 To The Same Position On The Updated Version Of The Spread Sheet
   
-  Copy Row B13 Till H13 To The Same Position In The Updated Version Of The Spread Sheet
+  Copy Row B13 Till H13 To The Same Position On The Updated Version Of The Spread Sheet
 
